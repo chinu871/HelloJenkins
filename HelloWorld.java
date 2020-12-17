@@ -1,7 +1,9 @@
 class HelloWorld{
 public static void main(String []ar){
-System.out.println("Everything looks fine to integrate with Jenkins");
-System.out.println("This is my First Git Project!");
+int a =5;
+int b=5;
+int c = a+b;
+System.out.println("This is my First Git Project!"+"  "+"Sum of two project "+c);
 }
 
 }
